@@ -1,0 +1,39 @@
+Git実習
+1.実習内容
+(1)作成したファイルのGitHubアップロード
+git branch -M main
+git push -u origin main
+⇒GitHubログイン＆画面更新
+https://github.com/Saymeyamasato/Jomon
+
+(2)ankoiriとファイル共有
+(3)sayme7558編集内容のGitHubファイル反映
+(4)ankoiri側ファイルに反映
+(5)ankoiri編集内容のGitHubファイル反映
+(6)sayme7558管理ファイルへの編集内容反映
+
+2.実習log
+(1)git commitでの.git/COMMIT_EDITMSG画面表示
+　⇒vi画面でコミットメッセージ入力要求
+i で入力モードに切り替え、コミットの横の pick を edit に変更
+　編集終了 ESC, :wq で閉る⇒ edit にしたコミットが最新のコミットの状態
+
+(2)作成したファイルのGitHubアップロード
+git branch -M main
+git push -u origin main
+⇒GitHubログイン＆画面更新
+https://github.com/Saymeyamasato/Jomon
+
+(3)ankoiriとファイル共有
+
+(4)sayme7558編集内容のGitHubファイル反映
+
+(5)ankoiri側ファイルに反映
+
+(6)ankoiri編集内容のGitHubファイル反映
+
+(7)sayme7558管理ファイルへの編集内容反映
+
+
+
+以上
