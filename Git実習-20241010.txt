@@ -25,6 +25,8 @@ git push -u origin main
 https://github.com/Saymeyamasato/Jomon
 
 (3)ankoiriとファイル共有
+https://qiita.com/key_it6/items/eff223ff5427438c9775
+
 
 (4)sayme7558編集内容のGitHubファイル反映
 
